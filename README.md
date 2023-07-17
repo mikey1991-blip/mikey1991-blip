@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikey1991-blip
+- 👋 Hi, I’m mikey
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning cybersecurity in Coursera(google certificate cybersecurity)
 - 💞️ I’m looking to collaborate on Google
